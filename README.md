@@ -16,6 +16,7 @@ I have learnt tons of things, these include the following ones:
 - Develop a REST service
 - Create an embedded database using H2
 - Use swagger and postman to easy develop and test the REST service
+- Implement basic security
 
 ## Functionalities
 With this REST service you can do the following:
