@@ -13,6 +13,7 @@ I have learnt tons of things, these include the following ones:
 - How to setup a Springboot project
 - Different ways of reading data from a database: JPA and JDBC
 - How to structure a project using the MVC design pattern
+- To be aware of SOLID principles when creating software
 - Develop a REST service
 - Create an embedded database using H2
 - Use swagger and postman to easy develop and test the REST service
